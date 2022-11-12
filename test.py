@@ -1,0 +1,1 @@
+print([list(map(lambda x, y: x + y, [4,3,2], [1,1,1]))])
